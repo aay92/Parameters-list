@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://aay92.github.io/Parameters-list/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
